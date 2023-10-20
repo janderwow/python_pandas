@@ -21,13 +21,13 @@ Os objetivos deste repositório são:
 
 Neste repositório, você encontrará:
 
-- Notebooks Jupyter onde documentarei meus experimentos e anotações de aprendizado.
+- Notebooks Google Colab onde documentarei meus experimentos e anotações de aprendizado.
 - Códigos e scripts que estou trabalhando ou desenvolvendo.
 - Conjuntos de dados que estou usando para praticar minhas habilidades com o Pandas.
 
 ## Como Contribuir
 
-Como este é um repositório pessoal de estudo, não aceito contribuições externas. No entanto, sinta-se à vontade para abrir uma issue se quiser discutir algo ou fornecer sugestões!
+Como este é um repositório pessoal de estudo. No entanto, sinta-se à vontade para abrir uma issue se quiser discutir algo ou fornecer sugestões!
 
 ## Recursos
 
